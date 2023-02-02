@@ -1,5 +1,5 @@
 # Turn_Excel_to_2d-array-php
-with using box/spout Package
+using box/spout Package
 
 
 simple install :
