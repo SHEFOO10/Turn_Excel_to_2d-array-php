@@ -7,7 +7,7 @@ composer install
 
 
 
-code will be maintenance soon iT works but i think it can be more clean code and less lines .
+code will be maintenance soon ,  it works but i think it can be more clean code and less lines .
 
 
 feel free to modify code and let me know ⭐ >
